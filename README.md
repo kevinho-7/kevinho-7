@@ -7,7 +7,7 @@
 <!-- rede sociais e maneiras de me contatar -->
 ### Meus contatos
 <p align="left">
-    <a href="">
+    <a href="kevingarciaf.kf@outlook.com">
         <img alt="my email" title="Me mande um email!" src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoSource=feather"/></a>
     <a href="https://br.linkedin.com/in/kevin-garcia-ferreira-2933b8212?trk=people-guest_people_search-card">
         <img alt="my linkedIn" title="Fale comigo pelo LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoSource=feather"/></a>
