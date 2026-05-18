@@ -2,12 +2,13 @@
 
 <!-- **` Web .NET Developer `** -->
 
- <img src="https://flagcdn.com/20x15/br.png"> [**`Portuguese Version`**](./README.pt.md)
+<img src="https://flagcdn.com/20x15/us.png"> [**`English Version`**](./README.md)
 
-**`Junior Software Developer`**
+**`Desenvolvedor de Software Junior`**
 
 <!-- rede sociais e maneiras de me contatar -->
-## My Contacts
+## Meus contatos
+
 <p align="left">
     <a 
         href="mailto:kevingarciaf.kf@outlook.com">
@@ -27,22 +28,22 @@
     </a>
 </p>
 
-## About me
+## Sobre mim
 <p>
-    System developer focused on C# and .NET ecosystem. I have been improving my skills though practical projects and am looking for an opportunity as Junior Developer. 
+    Desenvolvedor de sistemas com foco em C# e no ecossistema .NET. Tenho aprimorado minhas habilidades por meio de projetos práticos e busco uma oportunidade como desenvolvedor júnior.
 <p>
-    I am currently pursuing a Bachelor’s degree in Software development at Brigham Young University-Idaho, where I have already completed two academic certificates related to software development.
+    Atualmente curso o bacharelado em Software Development na Brigham Young University–Idaho, onde já concluí dois certificados acadêmicos relacionados à área de desenvolvimento de software.
 </p>
 
 <br>
 
-**`Certificates`**
-- [Web & Computer Programming](https://1drv.ms/b/c/5878bb5bf403e21f/IQDmkJuLVyNtRZqbMX-U3yM1AbK2wY961UJJmcRyWLhrdbA?e=EwQpm7)
-- [Web Development](https://1drv.ms/b/c/5878bb5bf403e21f/IQCHlOj-rxaYT7tva1UvJPCcAeGgpcBTiSL0Lr8cqAH1Tt4?e=0fzCBI)
+**`Certificados`**
+- [Web & Programação de Computadores](https://1drv.ms/b/c/5878bb5bf403e21f/IQDmkJuLVyNtRZqbMX-U3yM1AbK2wY961UJJmcRyWLhrdbA?e=EwQpm7)
+- [Desenvolvimento Web](https://1drv.ms/b/c/5878bb5bf403e21f/IQCHlOj-rxaYT7tva1UvJPCcAeGgpcBTiSL0Lr8cqAH1Tt4?e=0fzCBI)
 
 
 
-## Core Skills
+## Top Habilidades
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     title="C#"
@@ -69,7 +70,7 @@
 />
 
 
-## Other technologies
+## Outras Tecnologias
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     title="PostgreSql"
