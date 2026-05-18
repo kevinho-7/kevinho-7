@@ -16,7 +16,7 @@
         />
     </a>
     <a 
-        href="https://br.linkedin.com/in/kevin-garcia-ferreira-2933b8212?trk=people-guest_people_search-card">
+        href="linkedin.com/in/kevin-garcia-ferreira-2933b8212">
         <img
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoSource=feather" 
             alt="my linkedIn" 
