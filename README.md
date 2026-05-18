@@ -5,7 +5,7 @@
 **`Junior Software Developer`**
 
 <!-- rede sociais e maneiras de me contatar -->
-### Meus contatos
+### <img src="https://flagcdn.com/24x18/br.png"> Meus contatos / <img src="https://flagcdn.com/24x18/us.png"> My Contacts
 <p align="left">
     <a 
         href="mailto:kevingarciaf.kf@outlook.com">
@@ -25,15 +25,24 @@
     </a>
 </p>
 
-## Sobre mim
+## <img src="https://flagcdn.com/24x18/br.png"> Sobre mim / <img src="https://flagcdn.com/24x18/us.png"> About me
+<img src="https://flagcdn.com/24x18/br.png">
 <p>
     Desenvolvedor de sistemas com foco em C# e no ecossistema .NET. Tenho aprimorado minhas habilidades por meio de projetos práticos e busco uma oportunidade como desenvolvedor júnior.
 <p>
     Atualmente curso o bacharelado em Software Development na Brigham Young University–Idaho, onde já concluí dois certificados acadêmicos relacionados à área de desenvolvimento de software.
 </p>
 
-- [Certificado em Web & Computer Programming](https://1drv.ms/b/c/5878bb5bf403e21f/IQDmkJuLVyNtRZqbMX-U3yM1AbK2wY961UJJmcRyWLhrdbA?e=EwQpm7)
-- [Certificado em Web Development](https://1drv.ms/b/c/5878bb5bf403e21f/IQCHlOj-rxaYT7tva1UvJPCcAeGgpcBTiSL0Lr8cqAH1Tt4?e=0fzCBI)
+<img src="https://flagcdn.com/24x18/us.png">
+<p>
+    System developer focused on C# and .NET ecosystem. I have been improving my skills though practical projects and am looking for an opportunity as Junior Developer. 
+<p>
+    I am currently pursuing a Bachelor’s degree in Software development at Brigham Young University-Idaho, where I have already completed two academic certificates related to software development.
+</p>
+
+**`Certificates`**
+- [Web & Computer Programming](https://1drv.ms/b/c/5878bb5bf403e21f/IQDmkJuLVyNtRZqbMX-U3yM1AbK2wY961UJJmcRyWLhrdbA?e=EwQpm7)
+- [Web Development](https://1drv.ms/b/c/5878bb5bf403e21f/IQCHlOj-rxaYT7tva1UvJPCcAeGgpcBTiSL0Lr8cqAH1Tt4?e=0fzCBI)
 
 
 
@@ -64,7 +73,7 @@
 />
 
 
-## Outras Tecnologias
+## Other technologies
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     title="PostgreSql"
