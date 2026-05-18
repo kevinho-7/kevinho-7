@@ -2,7 +2,7 @@
 
 <!-- **` Web .NET Developer `** -->
 
-<img src="https://flagcdn.com/20x15/us.png"> [**`English Version`**](./README.md)
+<img src="https://flagcdn.com/20x15/us.png" width="25"> [**`English Version`**](./README.md)
 
 **`Desenvolvedor de Software Junior`**
 
