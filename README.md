@@ -27,8 +27,7 @@
 
 ## Sobre mim
 <p>
-    Desenvolvedor de sistemas em formação com foco em C# e no ecossistema .NET <br> Busco aprimorar minhas habilidades através de projetos práticos e estou em busca de uma oportunidade como desenvolvedor júnior.  
-</p>
+    Desenvolvedor de sistemas com foco em C# e no ecossistema .NET. Tenho aprimorado minhas habilidades por meio de projetos práticos e busco uma oportunidade como desenvolvedor júnior.
 <p>
     Atualmente curso o bacharelado em Software Development na Brigham Young University–Idaho, onde já concluí dois certificados acadêmicos relacionados à área de desenvolvimento de software.
 </p>
