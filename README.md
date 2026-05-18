@@ -1,10 +1,8 @@
 # 💻 Kevin G. Ferreira
 
-<!-- **` Web .NET Developer `** -->
+**`Junior Software Developer`**
 
  <img src="https://flagcdn.com/64x48/br.png" width="25"> [**`Portuguese Version`**](./README.pt.md)
-
-**`Junior Software Developer`**
 
 <!-- rede sociais e maneiras de me contatar -->
 ## My Contacts
@@ -137,4 +135,4 @@
     style="padding-right:2px;" 
 />
 
-<!-- ## Meus projetos -->
+<!-- ## My Projects -->
