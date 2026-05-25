@@ -6,20 +6,24 @@
 
 <!-- rede sociais e maneiras de me contatar -->
 ## Meus contatos
-
 <p align="left">
     <a 
-        href="mailto:kevingarciaf.kf@outlook.com">
+        href="mailto:kevingarciaf.kf@outlook.com"
+        style="text-decoration: none"
+    > 
         <img 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoSource=feather"
+            src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
             alt="my email" 
-            title="Me mande um email!" 
+            title="Me envie um E-mail"
+            style="padding-right:8px;"  
         />
     </a>
     <a 
-        href="https://linkedin.com/in/kevin-garcia-ferreira-2933b8212">
+        href="https://linkedin.com/in/kevin-garcia-ferreira-2933b8212"
+        style="text-decoration: none"
+    >
         <img
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoSource=feather" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="my linkedIn" 
             title="Fale comigo pelo LinkedIn" 
         />
@@ -28,7 +32,9 @@
 
 ## Sobre mim
 <p>
-    Desenvolvedor de sistemas com foco em C# e no ecossistema .NET. Tenho aprimorado minhas habilidades por meio de projetos práticos e busco uma oportunidade como desenvolvedor júnior.
+    Desenvolvedor de software apaixonado por criar aplicações e evoluir continuamente por meio de projetos práticos e experiência prática. 
+    Sempre buscando aprender novas tecnologias e aprimorar habilidades de resolução de problemas e desenvolvimento de software.
+</p>
 <p>
     Atualmente curso o bacharelado em Software Development na Brigham Young University–Idaho, onde já concluí dois certificados acadêmicos relacionados à área de desenvolvimento de software.
 </p>
@@ -70,6 +76,18 @@
 
 ## Outras Tecnologias
 <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    title="Python"
+    width="35px"
+    style="padding-right:2px;" 
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    title="Git"
+    width="35px"
+    style="padding-right:2px;" 
+/>
+<img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     title="PostgreSql"
     width="35px"
@@ -78,12 +96,6 @@
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
     title="MongoDb"
-    width="35px"
-    style="padding-right:2px;" 
-/>
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    title="Python"
     width="35px"
     style="padding-right:2px;" 
 />
@@ -135,5 +147,13 @@
     width="35px"
     style="padding-right:2px;" 
 />
+
+## Conceitos & Práticas
+
+- APIs REST
+- Arquitetura MVC
+- Programação Orientada a Objetos (POO)
+- Design Responsivo
+- Princípios de Clean Code
 
 <!-- ## Meus projetos -->

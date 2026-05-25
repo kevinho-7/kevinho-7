@@ -8,28 +8,35 @@
 ## My Contacts
 <p align="left">
     <a 
-        href="mailto:kevingarciaf.kf@outlook.com">
+        href="mailto:kevingarciaf.kf@outlook.com"
+        style="text-decoration: none"
+    > 
         <img 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-red.svg?logo=mail&logoSource=feather"
+            src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
             alt="my email" 
-            title="Me mande um email!" 
+            title="Send me a E-mail"
+            style="padding-right:8px;"  
         />
     </a>
     <a 
-        href="https://linkedin.com/in/kevin-garcia-ferreira-2933b8212">
+        href="https://linkedin.com/in/kevin-garcia-ferreira-2933b8212"
+        style="text-decoration: none"
+    >
         <img
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin&logoSource=feather" 
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
             alt="my linkedIn" 
-            title="Fale comigo pelo LinkedIn" 
+            title="Contact me on LinkedIn" 
         />
     </a>
 </p>
 
 ## About me
 <p>
-    System developer focused on C# and .NET ecosystem. I have been improving my skills though practical projects and am looking for an opportunity as Junior Developer. 
+    Software developer passionate about building applications and continuously improving through practical projects and hands-on experience. 
+    Always seeking to learn new technologies and improve problem-solving and software development skills.
+</p>
 <p>
-    I am currently pursuing a Bachelor’s degree in Software development at Brigham Young University-Idaho, where I have already completed two academic certificates related to software development.
+    I am currently pursuing a Bachelor’s degree in Software Development at Brigham Young University–Idaho, where I have already completed two academic certificates related to software development.
 </p>
 
 <br>
@@ -69,6 +76,18 @@
 
 ## Other technologies
 <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    title="Python"
+    width="35px"
+    style="padding-right:2px;" 
+/>
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    title="Git"
+    width="35px"
+    style="padding-right:2px;" 
+/>
+<img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     title="PostgreSql"
     width="35px"
@@ -77,12 +96,6 @@
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
     title="MongoDb"
-    width="35px"
-    style="padding-right:2px;" 
-/>
-<img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    title="Python"
     width="35px"
     style="padding-right:2px;" 
 />
@@ -134,5 +147,12 @@
     width="35px"
     style="padding-right:2px;" 
 />
+
+## Concepts & Practices
+- REST APIs
+- MVC Architecture
+- Object-Oriented Programming (OOP)
+- Responsive Web Design
+- Clean Code Principles
 
 <!-- ## My Projects -->
