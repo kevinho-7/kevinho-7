@@ -1,4 +1,4 @@
-# 💻 Kevin G. Ferreira
+# 💻 Kevin Garcia Ferreira
 
 **`Desenvolvedor de Software Junior`**
 
