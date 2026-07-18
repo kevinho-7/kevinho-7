@@ -30,14 +30,15 @@
     </a>
 </p>
 
-## Sobre mim
-<p>
-    Desenvolvedor de software apaixonado por criar aplicações e evoluir continuamente por meio de projetos práticos e experiência prática. 
-    Sempre buscando aprender novas tecnologias e aprimorar habilidades de resolução de problemas e desenvolvimento de software.
-</p>
-<p>
-    Atualmente curso o bacharelado em Software Development na Brigham Young University–Idaho, onde já concluí dois certificados acadêmicos relacionados à área de desenvolvimento de software.
-</p>
+## Sobre Mim
+
+💻 Sempre fui apaixonado por computadores, tecnologia e resolução de problemas. Desde cedo, gostava de explorar computadores, desenhar e enfrentar desafios que exigiam raciocínio lógico, o que naturalmente me levou a seguir a carreira de Desenvolvimento de Software.
+
+🚀 Atualmente curso Bacharelado em Desenvolvimento de Software pela Brigham Young University–Idaho, enquanto adquiro experiência prática como Desenvolvedor .NET Júnior. Ao longo da minha trajetória, desenvolvi projetos acadêmicos e pessoais focados em aplicações web, APIs REST e desenvolvimento backend utilizando C# e .NET.
+
+✅ Profissionalmente, contribuo para o desenvolvimento e manutenção de aplicações corporativas, automação de processos e integração de sistemas. Além disso, meus dois anos de serviço voluntário em tempo integral fortaleceram habilidades como liderança, comunicação, adaptabilidade e trabalho em equipe.
+
+⚽ Fora do desenvolvimento de software, gosto de jogar futebol, estudar inglês, explorar novas tecnologias e buscar evolução contínua, tanto no aspecto técnico quanto no pessoal.
 
 <br>
 
