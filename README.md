@@ -1,4 +1,4 @@
-# 💻 Kevin G. Ferreira
+# 💻 Kevin Garcia Ferreira
 
 **`Junior Software Developer`**
 
@@ -30,14 +30,15 @@
     </a>
 </p>
 
-## About me
-<p>
-    Software developer passionate about building applications and continuously improving through practical projects and hands-on experience. 
-    Always seeking to learn new technologies and improve problem-solving and software development skills.
-</p>
-<p>
-    I am currently pursuing a Bachelor’s degree in Software Development at Brigham Young University–Idaho, where I have already completed two academic certificates related to software development.
-</p>
+## About Me
+
+💻 I've always been passionate about computers, technology, and problem-solving. Growing up, I enjoyed working with computers, drawing, and anything that challenged my logical thinking, which naturally led me to pursue a career in Software Development.
+
+🚀 I'm currently pursuing a Bachelor's Degree in Software Development at Brigham Young University–Idaho while building real-world experience as a Junior .NET Software Developer. Throughout my journey, I've developed academic and personal projects focused on web applications, REST APIs, and backend development using C# and .NET.
+
+✅ Professionally, I've contributed to the development and maintenance of business applications, process automation, and system integrations. My two years of full-time volunteer service also strengthened my leadership, communication, adaptability, and teamwork skills.
+
+⚽ Outside of coding, I enjoy playing soccer, studying English, exploring new technologies, and continuously improving both my technical and personal skills.
 
 <br>
 
